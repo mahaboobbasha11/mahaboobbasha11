@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Website Building**
 
-- 🌱 I’m currently learning **Django-ORM ,MySQL(WAMP Server) ,JavaScript.**
+- 🌱 I’m currently learning **Angular ,MySQL ,JavaScript.**
 
 - 👯 I’m looking to collaborate on **Facial Recognition App**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mahabasha374@gmail.com**
 
-- 📄 Know about my experiences [file:///G:/My%20Drive/Resume-Mahaboob-Basha%20(1).pdf](file:///G:/My%20Drive/Resume-Mahaboob-Basha%20(1).pdf)
+- 📄 Know about my experiences [](https://drive.google.com/file/d/1vt-McXZEU6L2ml5SG07RU76Q7pKxVQ0d/view?usp=drivesdk)
 
 - ⚡ Fun fact **I am Always Funny**
 
